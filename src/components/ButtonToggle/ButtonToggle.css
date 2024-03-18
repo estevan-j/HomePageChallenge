@@ -1,0 +1,17 @@
+.btn-bg{
+    display: flex;
+    width: 50px;
+    height: 25px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3px ;
+    border-radius: 20px;
+    background-color: #111729;
+}
+.active{
+    background-color: #fff;
+    border-radius: 100%;
+}
+button img {
+    height: 75%;
+}
